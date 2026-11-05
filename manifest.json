@@ -1,0 +1,14 @@
+{
+  "name": "Kötvénykártya – Nyomtass, mielőtt sötét lesz",
+  "short_name": "Kötvénykártya",
+  "description": "Analóg Biztonsági Háló: Kötvénykártya, Sárga lap, Analóg készlet. Offline is működik.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F5C518",
+  "theme_color": "#C8281E",
+  "lang": "hu",
+  "icons": [
+    { "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cmVjdCB3aWR0aD0iNTEyIiBoZWlnaHQ9IjUxMiIgcng9Ijk2IiBmaWxsPSIjQzgyODFFIi8+PHJlY3QgeD0iOTYiIHk9IjE2MCIgd2lkdGg9IjMyMCIgaGVpZ2h0PSIyMDAiIHJ4PSIyMCIgZmlsbD0iI2ZmZiIvPjxyZWN0IHg9Ijk2IiB5PSIxNjAiIHdpZHRoPSIzMjAiIGhlaWdodD0iNTIiIHJ4PSIyMCIgZmlsbD0iI0YyOEMwMCIvPjxyZWN0IHg9Ijk2IiB5PSIxOTAiIHdpZHRoPSIzMjAiIGhlaWdodD0iMjIiIGZpbGw9IiNGMjhDMDAiLz48cmVjdCB4PSIxMjgiIHk9IjI0MCIgd2lkdGg9IjE2MCIgaGVpZ2h0PSIxOCIgcng9IjYiIGZpbGw9IiMxYTFhMWEiLz48cmVjdCB4PSIxMjgiIHk9IjI3NiIgd2lkdGg9IjExMCIgaGVpZ2h0PSIxNCIgcng9IjYiIGZpbGw9IiM2YjY0NWMiLz48cmVjdCB4PSIxMjgiIHk9IjMwNiIgd2lkdGg9IjE0MCIgaGVpZ2h0PSIxNCIgcng9IjYiIGZpbGw9IiM2YjY0NWMiLz48cmVjdCB4PSIzMjQiIHk9IjI0MCIgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiBmaWxsPSIjMWExYTFhIi8+PHJlY3QgeD0iMzM2IiB5PSIyNTIiIHdpZHRoPSI0MCIgaGVpZ2h0PSI0MCIgZmlsbD0iI2ZmZiIvPjxyZWN0IHg9IjM0NiIgeT0iMjYyIiB3aWR0aD0iMjAiIGhlaWdodD0iMjAiIGZpbGw9IiMxYTFhMWEiLz48L3N2Zz4=", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
